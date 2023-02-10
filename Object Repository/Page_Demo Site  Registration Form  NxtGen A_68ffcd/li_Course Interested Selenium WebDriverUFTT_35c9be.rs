@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Course Interested Selenium WebDriverUFTT_35c9be</name>
+   <tag></tag>
+   <elementGuidId>17ff4cdc-b10d-4be6-9eb0-54dbe0550f4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='item-vfb-20']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#item-vfb-20</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2cd17eb0-e99c-4e20-a6d1-84e438c9f86a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vfb-item vfb-item-checkbox  vfb-auto-column </value>
+      <webElementGuid>4e124bd6-95ad-4e71-b5cb-7d8da5223243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>item-vfb-20</value>
+      <webElementGuid>67f0bfde-f1ee-462b-a94a-60cd0773059e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Course Interested Selenium WebDriverUFTTestNGCore JavaFunctional TestingOthers</value>
+      <webElementGuid>b416ea82-62d9-4345-bc63-7685e3c08f08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item-vfb-20&quot;)</value>
+      <webElementGuid>37113c3c-9d46-44dc-9a86-a6e6704650de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='item-vfb-20']</value>
+      <webElementGuid>141a2257-04e3-4673-b9a3-e6453a888ae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='item-vfb-1']/ul/li[9]</value>
+      <webElementGuid>f8babd0a-7f9d-4f17-be03-780887e4900c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter only digits.'])[1]/following::li[1]</value>
+      <webElementGuid>936e50cb-2ed1-44af-8c84-9d33b69ff590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Number'])[1]/following::li[1]</value>
+      <webElementGuid>88ce0dc9-cd5d-4fbe-a401-4f50229bab1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/ul/li[9]</value>
+      <webElementGuid>626119a6-9dd5-4725-8abf-df412f2f568d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'item-vfb-20' and (text() = 'Course Interested Selenium WebDriverUFTTestNGCore JavaFunctional TestingOthers' or . = 'Course Interested Selenium WebDriverUFTTestNGCore JavaFunctional TestingOthers')]</value>
+      <webElementGuid>1bdc5b09-a906-42fa-9ee6-8950dfe886bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
